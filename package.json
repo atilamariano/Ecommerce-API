@@ -1,0 +1,28 @@
+{
+  "name": "api-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusSantiagoDev/API-Ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusSantiagoDev/API-Ecommerce/issues"
+  },
+  "homepage": "https://github.com/MateusSantiagoDev/API-Ecommerce#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypt": "^0.0.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.3"
+  }
+}
